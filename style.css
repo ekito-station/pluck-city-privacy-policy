@@ -1,0 +1,9 @@
+.content {
+  width: 70%;
+  margin: 0 auto;
+}
+
+h2 {
+  border-bottom: dashed 2px #4e454a;
+  padding: 10px 0;
+}
